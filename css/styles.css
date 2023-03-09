@@ -1,0 +1,87 @@
+body {
+   text-align: center;
+   margin: 0;
+   font-family: 'Libre Baskerville', serif;
+}
+
+.top-container {
+
+   background-color: #7b98dc;
+   position: relative;
+   padding-top: 160px;
+}
+
+.foto-perfil {
+   border-radius: 100px;
+   padding: 20px;
+   width: 150px;
+   height: 150px;
+}
+
+.habilidades {
+   width: 200px;
+   height: 200px;
+   border-radius: 100px;
+}
+
+.middle-container {}
+
+.bottom-container {}
+
+.tabla-habilidades {
+   margin: 0 auto 0 auto;
+}
+
+.top-cloud {
+   position: absolute;
+   right: 100px;
+   top: 50px;
+
+}
+
+.bottom-cloud {
+   position: absolute;
+   left: 300px;
+   bottom: 300px;
+}
+
+
+
+h1 {
+   font-size: 500%;
+   margin-top: 0;
+   font-family: 'Raleway Dots', cursive;
+   color: #bcdede;
+   text-shadow: 0 0 2px #000; /* horizontal-offset vertical-offset 'blur' colour */
+   -moz-text-shadow: 0 0 2px #000;
+   -webkit-text-shadow: 0 0 2px #000;
+}
+
+h2 {
+   font-size: 200%;
+   margin-top: 0;
+   font-family: 'Raleway Dots', cursive;
+   color: #000000;
+   text-shadow: 0 0 2px #000; /* horizontal-offset vertical-offset 'blur' colour */
+   -moz-text-shadow: 0 0 2px #000;
+   -webkit-text-shadow: 0 0 2px #000;
+}
+
+h3 {
+   color: #11999E;
+}
+
+
+
+tr {
+   padding: 0;
+}
+
+td {
+   padding: 0;
+}
+
+.iconhabilidades{
+   width: 25px;
+   height: 25px;
+}

@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+}
+/*.c1 {
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+}
+
+.c2 {
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    position: relative;
+    left: 200px;
+}
+
+.c3 {
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    position: relative;
+    left: 400px;
+}*/
+
+.c1 {
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+}
+
+.c2 {
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    left: 200px;
+    top: 200px;
+}
+
+.c3 {
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    left: 400px;
+    top: 400px;
+}
