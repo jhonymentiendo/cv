@@ -11,6 +11,11 @@ body {
    padding-top: 160px;
 }
 
+.primeraskillrow{
+   display: block;
+   margin-top: 50px !important;
+}
+
 .skill-row{
    width: 50%;
    margin: 100px auto 100px auto;
@@ -97,4 +102,10 @@ td {
 .iconhabilidades{
    width: 25px;
    height: 25px;
+}
+.imagenmuestratibco{
+   display: block;
+   width: 30%;
+   height: 30%;
+   margin: 20px auto 20px auto;
 }
